@@ -1,0 +1,10 @@
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatakTests\bin\Debug\PrviZadatakTests.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatakTests\bin\Debug\PrviZadatakTests.pdb
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatakTests\bin\Debug\DrugiZadatak.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatakTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatakTests\bin\Debug\PrviZadatak.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatakTests\bin\Debug\PrviZadatak.pdb
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatakTests\bin\Debug\DrugiZadatak.pdb
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatakTests\obj\Debug\PrviZadatakTests.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatakTests\obj\Debug\PrviZadatakTests.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatakTests\obj\Debug\PrviZadatakTests.pdb

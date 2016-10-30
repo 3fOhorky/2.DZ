@@ -1,0 +1,5 @@
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\TreciCetvrtiPetiZadatak\bin\Debug\TreciCetvrtiPetiZadatak.exe.config
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\TreciCetvrtiPetiZadatak\bin\Debug\TreciCetvrtiPetiZadatak.exe
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\TreciCetvrtiPetiZadatak\bin\Debug\TreciCetvrtiPetiZadatak.pdb
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\TreciCetvrtiPetiZadatak\obj\Debug\TreciCetvrtiPetiZadatak.exe
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\TreciCetvrtiPetiZadatak\obj\Debug\TreciCetvrtiPetiZadatak.pdb

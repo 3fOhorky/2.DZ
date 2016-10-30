@@ -1,0 +1,6 @@
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatak\bin\Debug\PrviZadatak.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatak\bin\Debug\PrviZadatak.pdb
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatak\bin\Debug\DrugiZadatak.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatak\bin\Debug\DrugiZadatak.pdb
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatak\obj\Debug\PrviZadatak.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\PrviZadatak\obj\Debug\PrviZadatak.pdb

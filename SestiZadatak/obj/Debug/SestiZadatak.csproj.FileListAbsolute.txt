@@ -1,0 +1,5 @@
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\SestiZadatak\bin\Debug\SestiZadatak.exe.config
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\SestiZadatak\bin\Debug\SestiZadatak.exe
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\SestiZadatak\bin\Debug\SestiZadatak.pdb
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\SestiZadatak\obj\Debug\SestiZadatak.exe
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\SestiZadatak\obj\Debug\SestiZadatak.pdb

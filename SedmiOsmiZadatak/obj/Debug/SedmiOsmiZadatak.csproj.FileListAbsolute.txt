@@ -1,0 +1,5 @@
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\SedmiOsmiZadatak\bin\Debug\SedmiOsmiZadatak.exe.config
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\SedmiOsmiZadatak\bin\Debug\SedmiOsmiZadatak.exe
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\SedmiOsmiZadatak\bin\Debug\SedmiOsmiZadatak.pdb
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\SedmiOsmiZadatak\obj\Debug\SedmiOsmiZadatak.exe
+D:\Program Files (x86)\Visual Studio 2015 projects\DrugaDZ\SedmiOsmiZadatak\obj\Debug\SedmiOsmiZadatak.pdb
